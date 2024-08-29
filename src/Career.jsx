@@ -24,15 +24,7 @@ function Career() {
               </div>
             </div>
           </div>
-          <div className="col">
-            <div className="card h-100">
-              <img src="https://www.guvi.in/blog/wp-content/uploads/2023/05/2202.i402.018.S.m004.c13.Devops-engineer-flat-composition-1536x1182.jpg" className="card-img-top" alt="..."></img>
-              <div className="card-body">
-                <h5 className="card-title">As a Software Engineer, How Do I Shift My Career to DevOps?</h5>
-                <a href="#" className="card-link" style={{ color: 'white' }} >Read more</a>
-              </div>
-            </div>
-          </div>
+        
           <div className="col">
             <div className="card h-100">
               <img src="https://www.guvi.in/blog/wp-content/uploads/2023/12/ui_ux_salary_guide_is_it_a_high_paying_career_feature_image.webp" className="card-img-top" alt="..."></img>
