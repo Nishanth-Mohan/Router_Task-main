@@ -1,0 +1,36 @@
+body{
+  background-image: url("https://freedesignfile.com/upload/2017/01/Light-blue-tech-background-vector-08.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 5%;
+}
+h1{
+  color: whitesmoke;
+}
+.coures-nav{
+  padding: 20px;
+  
+}
+.navbar{
+  border: 5px rgb(149, 202, 235) solid;
+  height: 100%;
+  padding: 5px;
+ .nav-item{
+  margin-left: 10%;
+ }
+  
+}
+img{
+  height: 25vh;
+}
+.card{
+  background-color: rgb(97, 160, 231);
+  border: 5px rgb(13, 24, 31) solid;
+  transition: transform 0.3s ease;
+  transform-style: preserve-3d; 
+}
+
+.card:hover {
+  background-color: #a4ee05; /* Change this to your desired hover color */
+  transform: rotateY(15deg) rotateX(15deg);
+}
